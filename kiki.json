@@ -3,7 +3,7 @@
     {
       "flag": "AutoEventTpToggle",
       "type": "Toggle",
-      "state": false
+      "state": true
     },
     {
       "flag": "AutoBuyAllRodsToggle",
@@ -19,8 +19,7 @@
       "flag": "SelectFavoriteTiersDropdown",
       "type": "Dropdown",
       "value": [
-        "Secret",
-        "Mythic"
+        "Secret"
       ]
     },
     {
@@ -32,21 +31,28 @@
       "flag": "SelectEventDropdown",
       "type": "Dropdown",
       "value": [
-        ""
+        "Admin - Ghost Worm",
+        "Megalodon Hunt"
       ]
+    },
+    {
+      "flag": "ReversibleFpsBoosterToggle",
+      "type": "Toggle",
+      "state": true
     },
     {
       "flag": "TiersToWebhookDropdown",
       "type": "Dropdown",
       "value": [
-        "Secret"
+        "Secret",
+        "Mythic"
       ]
     },
     {
       "flag": "BaitSelectionDropdown",
       "type": "Dropdown",
       "value": [
-        "Topwater Bait - Price: 100"
+        "Corrupt Bait - Price: 1.1M"
       ]
     },
     {
@@ -62,12 +68,22 @@
       ]
     },
     {
+      "flag": "3DRenderToggle",
+      "type": "Toggle",
+      "state": true
+    },
+    {
       "flag": "EnchantStoneFarmToggle",
       "type": "Toggle",
       "state": false
     },
     {
       "flag": "AutoQuestDeepseaToggle",
+      "type": "Toggle",
+      "state": true
+    },
+    {
+      "flag": "AntiAfkToggle",
       "type": "Toggle",
       "state": true
     },
@@ -96,7 +112,7 @@
     {
       "flag": "AutoEquipBestBaitToggle",
       "type": "Toggle",
-      "state": false
+      "state": true
     },
     {
       "flag": "AutoFishingToggle",
@@ -116,7 +132,7 @@
     {
       "flag": "AutoEquipBestRodToggle",
       "type": "Toggle",
-      "state": false
+      "state": true
     },
     {
       "flag": "AutoDivingGearToggle",
