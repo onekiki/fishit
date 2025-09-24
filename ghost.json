@@ -1,0 +1,153 @@
+{
+  "objects": [
+    {
+      "flag": "AutoEventTpToggle",
+      "type": "Toggle",
+      "state": true
+    },
+    {
+      "flag": "AutoBuyAllRodsToggle",
+      "type": "Toggle",
+      "state": false
+    },
+    {
+      "flag": "EnchantStoneTargetInput",
+      "type": "Input",
+      "text": "10"
+    },
+    {
+      "flag": "SelectFavoriteTiersDropdown",
+      "type": "Dropdown",
+      "value": [
+        "Secret"
+      ]
+    },
+    {
+      "flag": "AutoSellsAllItemsToggle",
+      "type": "Toggle",
+      "state": true
+    },
+    {
+      "flag": "SelectEventDropdown",
+      "type": "Dropdown",
+      "value": [
+        "Admin - Ghost Worm",
+        "Megalodon Hunt"
+      ]
+    },
+    {
+      "flag": "ReversibleFpsBoosterToggle",
+      "type": "Toggle",
+      "state": true
+    },
+    {
+      "flag": "TiersToWebhookDropdown",
+      "type": "Dropdown",
+      "value": [
+        "Secret",
+        "Mythic"
+      ]
+    },
+    {
+      "flag": "BaitSelectionDropdown",
+      "type": "Dropdown",
+      "value": [
+        "Corrupt Bait - Price: 1.1M"
+      ]
+    },
+    {
+      "flag": "SellsDelayInput",
+      "type": "Input",
+      "text": "120"
+    },
+    {
+      "flag": "RodSelectionDropdown",
+      "type": "Dropdown",
+      "value": [
+        "Astral Rod - Price: 1.0M"
+      ]
+    },
+    {
+      "flag": "3DRenderToggle",
+      "type": "Toggle",
+      "state": false
+    },
+    {
+      "flag": "EnchantStoneFarmToggle",
+      "type": "Toggle",
+      "state": false
+    },
+    {
+      "flag": "AutoQuestDeepseaToggle",
+      "type": "Toggle",
+      "state": true
+    },
+    {
+      "flag": "AntiAfkToggle",
+      "type": "Toggle",
+      "state": true
+    },
+    {
+      "flag": "EnableFishWebhookToggle",
+      "type": "Toggle",
+      "state": true
+    },
+    {
+      "flag": "IslandTeleportDropdown",
+      "type": "Dropdown",
+      "value": [
+        "Crater Island"
+      ]
+    },
+    {
+      "flag": "WebhookURLInput",
+      "type": "Input",
+      "text": "https://discord.com/api/webhooks/1417802693400858687/XXqWvcN6oC3s8KO0Ey4zSt-O3CNeLBx1Dfj_YFoRi5Y5EAu2t8OXrnIrT5Fhc9u4d11Q"
+    },
+    {
+      "flag": "AutoRadarToggle",
+      "type": "Toggle",
+      "state": false
+    },
+    {
+      "flag": "AutoEquipBestBaitToggle",
+      "type": "Toggle",
+      "state": true
+    },
+    {
+      "flag": "AutoFishingToggle",
+      "type": "Toggle",
+      "state": true
+    },
+    {
+      "flag": "AutoTpSavePositionToggle",
+      "type": "Toggle",
+      "state": true
+    },
+    {
+      "flag": "Auto Favorite ItemsToggle",
+      "type": "Toggle",
+      "state": true
+    },
+    {
+      "flag": "AutoEquipBestRodToggle",
+      "type": "Toggle",
+      "state": true
+    },
+    {
+      "flag": "AutoDivingGearToggle",
+      "type": "Toggle",
+      "state": false
+    },
+    {
+      "flag": "AutoBuyAllBaitsToggle",
+      "type": "Toggle",
+      "state": false
+    }
+  ],
+  "customData": {
+    "PositionValue": [
+      "990, 4, 5006, 0.111, 0.000, 0.994"
+    ]
+  }
+}
