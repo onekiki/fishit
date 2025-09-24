@@ -58,7 +58,7 @@
     {
       "flag": "SellsDelayInput",
       "type": "Input",
-      "text": "120"
+      "text": "180"
     },
     {
       "flag": "RodSelectionDropdown",
@@ -70,7 +70,7 @@
     {
       "flag": "3DRenderToggle",
       "type": "Toggle",
-      "state": false
+      "state": true
     },
     {
       "flag": "EnchantStoneFarmToggle",
