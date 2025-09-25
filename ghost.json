@@ -6,14 +6,19 @@
       "state": true
     },
     {
-      "flag": "AutoBuyAllRodsToggle",
+      "flag": "AutoFishingToggle",
       "type": "Toggle",
-      "state": false
+      "state": true
+    },
+    {
+      "flag": "AutoRejoinToggle",
+      "type": "Toggle",
+      "state": true
     },
     {
       "flag": "EnchantStoneTargetInput",
       "type": "Input",
-      "text": "10"
+      "text": "15"
     },
     {
       "flag": "SelectFavoriteTiersDropdown",
@@ -21,6 +26,11 @@
       "value": [
         "Secret"
       ]
+    },
+    {
+      "flag": "AutoBuyAllRodsToggle",
+      "type": "Toggle",
+      "state": false
     },
     {
       "flag": "AutoSellsAllItemsToggle",
@@ -34,6 +44,11 @@
         "Admin - Ghost Worm",
         "Megalodon Hunt"
       ]
+    },
+    {
+      "flag": "3DRenderToggle",
+      "type": "Toggle",
+      "state": true
     },
     {
       "flag": "ReversibleFpsBoosterToggle",
@@ -58,32 +73,10 @@
     {
       "flag": "SellsDelayInput",
       "type": "Input",
-      "text": "180"
+      "text": "120"
     },
     {
-      "flag": "RodSelectionDropdown",
-      "type": "Dropdown",
-      "value": [
-        "Astral Rod - Price: 1.0M"
-      ]
-    },
-    {
-      "flag": "3DRenderToggle",
-      "type": "Toggle",
-      "state": true
-    },
-    {
-      "flag": "EnchantStoneFarmToggle",
-      "type": "Toggle",
-      "state": false
-    },
-    {
-      "flag": "AutoQuestDeepseaToggle",
-      "type": "Toggle",
-      "state": true
-    },
-    {
-      "flag": "AntiAfkToggle",
+      "flag": "AutoTpSavePositionToggle",
       "type": "Toggle",
       "state": true
     },
@@ -91,6 +84,28 @@
       "flag": "EnableFishWebhookToggle",
       "type": "Toggle",
       "state": true
+    },
+    {
+      "flag": "EnchantStoneFarmToggle",
+      "type": "Toggle",
+      "state": true
+    },
+    {
+      "flag": "AutoQuestDeepseaToggle",
+      "type": "Toggle",
+      "state": false
+    },
+    {
+      "flag": "AntiAfkToggle",
+      "type": "Toggle",
+      "state": true
+    },
+    {
+      "flag": "EnchantSelectionDropdown",
+      "type": "Dropdown",
+      "value": [
+        "Mutation Hunter II"
+      ]
     },
     {
       "flag": "IslandTeleportDropdown",
@@ -115,14 +130,14 @@
       "state": true
     },
     {
-      "flag": "AutoFishingToggle",
+      "flag": "AutoEquipBestRodToggle",
       "type": "Toggle",
       "state": true
     },
     {
-      "flag": "AutoTpSavePositionToggle",
+      "flag": "AutoBuyAllBaitsToggle",
       "type": "Toggle",
-      "state": true
+      "state": false
     },
     {
       "flag": "Auto Favorite ItemsToggle",
@@ -130,9 +145,11 @@
       "state": true
     },
     {
-      "flag": "AutoEquipBestRodToggle",
-      "type": "Toggle",
-      "state": true
+      "flag": "RodSelectionDropdown",
+      "type": "Dropdown",
+      "value": [
+        "Astral Rod - Price: 1.0M"
+      ]
     },
     {
       "flag": "AutoDivingGearToggle",
@@ -140,7 +157,7 @@
       "state": false
     },
     {
-      "flag": "AutoBuyAllBaitsToggle",
+      "flag": "AutoEnchantToggle",
       "type": "Toggle",
       "state": false
     }
