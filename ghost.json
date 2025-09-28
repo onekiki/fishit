@@ -3,7 +3,7 @@
     {
       "flag": "AutoEventTpToggle",
       "type": "Toggle",
-      "state": true
+      "state": false
     },
     {
       "flag": "AutoFishingToggle",
@@ -127,12 +127,12 @@
     {
       "flag": "AutoEquipBestBaitToggle",
       "type": "Toggle",
-      "state": true
+      "state": false
     },
     {
       "flag": "AutoEquipBestRodToggle",
       "type": "Toggle",
-      "state": true
+      "state": false
     },
     {
       "flag": "AutoBuyAllBaitsToggle",
@@ -142,7 +142,7 @@
     {
       "flag": "Auto Favorite ItemsToggle",
       "type": "Toggle",
-      "state": true
+      "state": false
     },
     {
       "flag": "RodSelectionDropdown",
