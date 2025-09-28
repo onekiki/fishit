@@ -1,2 +1,2 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/onekiki/script/refs/heads/main/script/WORK/disabledgui.lua')()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/onekiki/script/refs/heads/main/script/WORK/disabledgui.lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/onekiki/fishit/refs/heads/main/first"))()
